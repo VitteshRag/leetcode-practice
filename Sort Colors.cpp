@@ -1,4 +1,4 @@
-//Dutch National Flag Algo
+//Dutch National Flag Algo was used for this problem.
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
